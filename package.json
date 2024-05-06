@@ -1,0 +1,19 @@
+{
+  "name": "binary-search-pakage",
+  "version": "1.0.2",
+  "description": "Binary search algorithm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "binary",
+    "search"
+  ],
+  "author": "Abhishek Kainthla",
+  "license": "ISC",
+  "dependencies": {
+    "binary-search-pakage": "^1.0.1"
+  }
+}
